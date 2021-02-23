@@ -1,0 +1,13 @@
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\bin\Debug\netcoreapp3.1\Hola mundo C#.exe
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\bin\Debug\netcoreapp3.1\Hola mundo C#.deps.json
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\bin\Debug\netcoreapp3.1\Hola mundo C#.runtimeconfig.json
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\bin\Debug\netcoreapp3.1\Hola mundo C#.runtimeconfig.dev.json
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\bin\Debug\netcoreapp3.1\Hola mundo C#.dll
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\bin\Debug\netcoreapp3.1\Hola mundo C#.pdb
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.csprojAssemblyReference.cache
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.AssemblyInfoInputs.cache
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.AssemblyInfo.cs
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.csproj.CoreCompileInputs.cache
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.dll
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.pdb
+C:\Users\Ana Marta\Desktop\segundo año\Hola mundo C#\obj\Debug\netcoreapp3.1\Hola mundo C#.genruntimeconfig.cache
